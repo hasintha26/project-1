@@ -1,3 +1,2 @@
 print('koshal')
 
-print('hasintha')
