@@ -1,1 +1,3 @@
 print('koshal')
+
+print('hasintha')
